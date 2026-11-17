@@ -35,6 +35,7 @@ export const profile = {
   objective:
     "I want to grow as a professional web developer by contributing to real-world software projects, strengthening my full-stack skills, and creating practical, scalable, user-friendly applications.",
   email: "hamayalzaheer7@gmail.com",
+  phone: { display: "03000000000", copy: "03000000000", tel: "+3000000000" },
   linkedin: { display: "in/hamayal-zaheer", href: "https://www.linkedin.com/in/hamayal-zaheer" },
   github: { display: "hamayalzaheer7-cpu", href: "https://github.com/hamayalzaheer7-cpu" },
 };
